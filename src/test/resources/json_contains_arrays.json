@@ -1,0 +1,36 @@
+[
+  {
+    "user": "John",
+    "address": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "11-1-11"
+      },
+      {
+        "type": "fax",
+        "number": "22-2-22"
+      }
+    ]
+  },
+  {
+    "user": "Jake",
+    "address": {
+      "city": "Los Angeles",
+      "state": "LA"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "33-3-33"
+      },
+      {
+        "type": "fax",
+        "number": "44-4-44"
+      }
+    ]
+  }
+]

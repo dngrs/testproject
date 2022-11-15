@@ -1,0 +1,10 @@
+{
+  "user": "John",
+  "address": {
+    "city": "New York",
+    "state": {
+      "name": "NY",
+      "code": 12345
+    }
+  }
+}

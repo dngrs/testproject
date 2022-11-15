@@ -1,0 +1,7 @@
+{
+  "firstName": "John",
+  "lastName": null,
+  "age": 25,
+  "percent": 0.75,
+  "isActive": true
+}
